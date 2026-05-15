@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "why-cold-water-matters",
+    "title": "Why Cold Water Matters",
+    "excerpt": "The science behind Winter Harbor's exceptional sweetness and density.",
+    "category": "Sustainability",
+    "date": "2026-04-15",
+    "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1200&q=80",
+    "author": "Winter Harbor Editorial",
+    "readTime": "6 min"
+  },
+  {
+    "slug": "chef-spotlight-daniel-humm",
+    "title": "Chef Spotlight: A Tasting Menu Built on Maine Blue",
+    "excerpt": "How one of the world's most celebrated chefs sources from a single pier.",
+    "category": "Recipes",
+    "date": "2026-03-28",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+    "author": "Winter Harbor Editorial",
+    "readTime": "8 min"
+  },
+  {
+    "slug": "traceability-from-dock-to-door",
+    "title": "Traceability: From Dock to Door",
+    "excerpt": "Inside our QR batch system and certificate of authenticity program.",
+    "category": "Our Process",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+    "author": "Maria Chen",
+    "readTime": "5 min"
+  },
+  {
+    "slug": "butter-poached-lobster-recipe",
+    "title": "Butter-Poached Lobster with Citrus Beurre Blanc",
+    "excerpt": "A refined preparation that lets the lobster speak for itself.",
+    "category": "Recipes",
+    "date": "2026-02-20",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200&q=80",
+    "author": "Chef Advisory Board",
+    "readTime": "12 min"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "eli-whitmore",
+    "name": "Elias Whitmore",
+    "title": "Fourth-Generation Captain",
+    "boat": "Atlantic Grace",
+    "years": 32,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+    "bio": "Elias learned the trade from his grandfather on these same waters. He hand-grades every lobster that bears the Winter Harbor Blue seal.",
+    "quote": "The cold water does the work. We just know when they're ready."
+  },
+  {
+    "id": "sarah-mitchell",
+    "name": "Sarah Mitchell",
+    "title": "Master Lobsterman",
+    "boat": "Harbor Mist",
+    "years": 18,
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&q=80",
+    "bio": "One of the first women to captain a commercial fleet in Downeast Maine. Sarah's select-grade lobsters supply Michelin-starred kitchens from Boston to Montréal.",
+    "quote": "Every lobster has a story. We make sure it gets told."
+  },
+  {
+    "id": "james-obrien",
+    "name": "James O'Brien",
+    "title": "Dock Master & Captain",
+    "boat": "Blue Horizon",
+    "years": 41,
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+    "bio": "James oversees pier operations and sets the grading standards that define our Chef's Reserve tier.",
+    "quote": "If I wouldn't serve it at my own table, it doesn't leave the dock."
+  },
+  {
+    "id": "maria-chen",
+    "name": "Maria Chen",
+    "title": "Sustainability Lead",
+    "boat": "Tide Runner",
+    "years": 12,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&q=80",
+    "bio": "Maria bridges traditional harvesting with modern traceability—every batch she handles is QR-coded before it reaches the holding tank.",
+    "quote": "Luxury and stewardship aren't opposites. They're the same commitment."
+  }
+]
